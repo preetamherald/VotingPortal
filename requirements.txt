@@ -1,5 +1,5 @@
 dj-database-url==0.5.0
-Django==2.2
+Django==3.2.23
 pytz==2019.1
 sqlparse==0.3.0
 whitenoise==4.1.2
@@ -9,7 +9,7 @@ chardet==3.0.4
 gunicorn==19.9.0
 idna==2.7
 imgurpython==1.1.7
-Pillow==5.3.0
+Pillow==10.0.0
 psycopg2==2.7.5
 python-dateutil==2.7.3
 python-mimeparse==1.6.0
